@@ -1,0 +1,5 @@
+https://github.com/Jenniferosei/cdond-c3-projectstarter
+
+S3 Bucket Endpoint - http://udapeople-891f807.s3-website-us-east-1.amazonaws.com/
+
+CloudFront Domain Name - d20o63ro2i0zgi.cloudfront.net
